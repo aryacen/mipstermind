@@ -1,7 +1,7 @@
 # Assembly Language Mastermind Game
 
 ## Overview
-This project is an implementation of a Mastermind-style game using MIPS assembly language. The game challenges the player to guess a secret code within a limited number of turns. The player receives feedback on the number of correct guesses both in the correct position and in incorrect positions.
+This project is an implementation of a Mastermind-style game using MIPS assembly language. The game challenges the player to guess a secret code within a limited number of turns. The player receives feedback on the number of correct guesses both in the correct position and in incorrect positions. This assignment was awarded a 100% mark, reflecting its completeness and accuracy.
 
 ## Features
 - **Random Code Generation**: The game generates a random code using a custom random number generator.
